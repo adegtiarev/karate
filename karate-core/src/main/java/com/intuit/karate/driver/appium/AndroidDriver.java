@@ -1,3 +1,23 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://karatelabs.github.io/karate
+*    Release: https://github.com/karatelabs/karate/releases/tag/v1.3.1
+*    Source File: AndroidDriver.java
+*    
+*    Copyrights:
+*      copyright 2017 intuit inc
+*    
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 package com.intuit.karate.driver.appium;
 
 import com.intuit.karate.FileUtils;
