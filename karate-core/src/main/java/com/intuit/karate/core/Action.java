@@ -1,4 +1,23 @@
 /*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Release: https://github.com/karatelabs/karate/releases/tag/v1.3.1
+*    Source File: Action.java
+*    
+*    Copyrights:
+*      copyright 2018 intuit inc
+*    
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
+/*
  * The MIT License
  *
  * Copyright 2018 Intuit Inc.
